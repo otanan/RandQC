@@ -19,7 +19,10 @@
 
 
 ## Installation
-In the base folder with where setup.py is located and in a virtual environment with Python 3.5+ just run `python3 -m pip install .`
+In the base folder with where setup.py is located and in a virtual environment with Python 3.5+ just run
+```bash
+python3 -m pip install .
+```
 
 
 ## Usage
@@ -28,7 +31,3 @@ You can read the documentation for RandQC in docs/build/index.html.
 
 ## Contact
 Created by [Jonathan Delgado](https://jdelgado.net/), [Joseph Rachid Farah](https://github.com/jrfarah), and [Valentino Crespi](https://github.com/vcrespi).
-
-
-
-<p align="right"><a href="#readme-top">Back to top</a></p>
