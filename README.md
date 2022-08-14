@@ -17,17 +17,8 @@
   </p>
 </div>
 
-## Table of contents
-* [Getting Started](#getting-started)
-* [Usage](#usage)
-* [Contact](#contact)
-* [Acknowledgments](#acknowledgments)
 
-
-## Getting Started
-How to setup the project locally.
-
-### Installation
+## Installation
 In the base folder with where setup.py is located and in a virtual environment with Python 3.5+ just run `python3 -m pip install .`
 
 
